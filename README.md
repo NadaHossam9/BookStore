@@ -50,7 +50,7 @@ The Blue Elephant will be shipped to Zayed, Egypt
  total payment= 400.0 EGP
 
 === Buying an Ebook ===
-Hepta will be sent to email jana@example.com     
+Hepta will be sent to email nada@gmail.com     
  total payment= 150.0 EGP
 
 === Trying to Buy a Demo Book ===
