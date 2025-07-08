@@ -12,6 +12,7 @@ The system emphasizes Object-Oriented Programming principles like inheritance, a
  **Encapsulation**  Book properties are private and accessed via getters
  
 **Project Structure**
+
 ├── Main.java # Entry point to run the system
 ├── Book.java # Abstract class representing a generic book
 ├── Paperbook.java # Concrete class representing a physical book
@@ -22,6 +23,7 @@ The system emphasizes Object-Oriented Programming principles like inheritance, a
 ├── MailService.java # Simulates sending eBooks via email
 
 **Features Demonstrated**
+
 *Add Book*
 
 -store.addBook(new Paperbook("001", "The Blue Elephant", 200.0, 2014, 5));
@@ -45,6 +47,7 @@ The system emphasizes Object-Oriented Programming principles like inheritance, a
 -store.removeOutdatedBook(2016);
 
 **SAMPLE OUTPUT**
+
 === Buying a Paper Book ===
 The Blue Elephant will be shipped to Zayed, Egypt
  total payment= 400.0 EGP
